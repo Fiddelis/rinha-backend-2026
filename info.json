@@ -1,0 +1,16 @@
+{
+    "participants": [
+        "Lucas Fidelis"
+    ],
+    "social": [
+        "https://github.com/Fiddelis",
+        "https://www.linkedin.com/in/lucas-ruan-fidelis/"
+    ],
+    "source-code-repo": "https://github.com/Fiddelis/rinha-backend-2026",
+    "stack": [
+        "python",
+        "starlette",
+        "nginx"
+    ],
+    "open_to_work": true
+}
